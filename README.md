@@ -1,0 +1,3 @@
+# DemoMavenProject
+
+Trying auto build 
